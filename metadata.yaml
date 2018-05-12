@@ -1,15 +1,21 @@
 _repo: Mestari-Olavin-haat-Romanttinen-kertomus-Kustaa-Vaasan-ensimaisilta-hallitusvuosilta_50019
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Soini, Lauri
     gutenberg_agent_id: '42573'
     url: http://www.gutenberg.org/2009/agents/42573
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Starbäck, Carl Georg
     gutenberg_agent_id: '44349'
     url: http://www.gutenberg.org/2009/agents/44349
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50019#Mestari-Olavin-haat-Romanttinen-kertomus-Kustaa-Vaasan-ensimaisilta-hallitusvuosilta
 gutenberg_issued: '2015-09-20'
 gutenberg_type: Text
 identifiers:
